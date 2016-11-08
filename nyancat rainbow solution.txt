@@ -1,0 +1,1 @@
+awesomeTrail.set(l, new Point2D.Double(awesomeTrail.get(l).getX(), 175 - ( (awesomeTrail.size()-l) * ( (double)(175-y-60)/(double)(awesomeTrail.size()) ) ) ));
